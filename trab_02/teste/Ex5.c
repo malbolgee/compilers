@@ -1,0 +1,7 @@
+int increment(int value) {
+  int i;
+  for (i = 0; i < 10; i++) {
+    value++;
+  }
+  return value;
+}
