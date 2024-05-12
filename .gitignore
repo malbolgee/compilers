@@ -1,0 +1,11 @@
+*.class
+*.java
+*.interp
+*.tokens
+
+__pycache__/
+
+*Lexer*
+*Parser*
+*Listener*
+*Visitor*
