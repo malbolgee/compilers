@@ -1,0 +1,12 @@
+TEXTO 50 1 "Qual o seu nome?"
+
+ESCOLHAUMA "Qual seu sexo?"
+("Feminino", "Masculino", "Outro")
+
+ESCOLHAVARIAS "Que esportes voce praticou esse ano?"
+("Futebol", "Volei", "Basquete", "Handlebol", "Outros")
+
+ESCOLHAUMA "O que voce do curso esse ano?"
+("Fraco", "Regular", "Bom", "Excelente")
+
+TEXTO 40 3 "O que voce sugere que seja diferente no próximo ano?"
