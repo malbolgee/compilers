@@ -8,3 +8,4 @@ __pycache__/
 *Lexer*
 *Parser*
 *.i
+*.s
